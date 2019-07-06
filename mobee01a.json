@@ -1,12 +1,13 @@
 {
   "response": [
     {
-      "filename": "CAF-9-20190705-mobee01a-TEAMONE.zip",
-      "version": "CAF-9-20190705-mobee01a-TEAMONE-BETA",
+      "datetime": 1562371200,
+      "filename": "CAF-9-20190706-mobee01a-TEAMONE.zip",
+      "id": "867390033d5a82dd12a54751abb9c232",
       "romtype": "BETA",
-      "size": "522005464",
-      "id": "37b12dad4fc6c3dcac3d33dc07200c71",
-      "url": "https://sourceforge.net/projects/caf-test/files/CAF-9-20190705-mobee01a-TEAMONE.zip/download"
+      "size": 477101966,
+      "url": "https://sourceforge.net/projects/caf-test/files/mobee01a/CAF-9-20190706-mobee01a-TEAMONE.zip/download",
+      "version": "CAF-9-20190706-mobee01a-TEAMONE-BETA"
     }
   ]
 }
