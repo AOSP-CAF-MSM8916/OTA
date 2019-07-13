@@ -26,6 +26,15 @@
       "size": 477425676,
       "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/CAF-9-20190712-2046-mobee01a-TEAMONE.zip",
       "version": "20190712-2046"
+    },
+    {
+      "datetime": 1563043882,
+      "filename": "update.zip",
+      "id": "46dac39ab1e4ade029e745f50e8595ce",
+      "romtype": "BETA",
+      "size": 477425676,
+      "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/update.zip",
+      "version": "9-20190713-1853-mobee01a-TEAMONE"
     }
   ]
 }
