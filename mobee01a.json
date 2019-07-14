@@ -35,6 +35,15 @@
       "size": 12551293,
       "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/update.zip",
       "version": "9-20190713-1853-mobee01a-TEAMONE"
+    },
+    {
+      "datetime": 1563043882,
+      "filename": "CAF-9-20190714-0831-mobee01a-TEAMONE.zip",
+      "id": "b650e96da90527563ac450ffcec355db",
+      "romtype": "ALPHA",
+      "size": 4734069983,
+      "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/CAF-9-20190714-0831-mobee01a-TEAMONE.zip",
+      "version": "9-20190714-0831-mobee01a-TEAMONE"
     }
   ]
 }
