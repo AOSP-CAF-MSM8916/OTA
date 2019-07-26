@@ -124,7 +124,16 @@
       "romtype": "ALPHA",
       "size": 487537553,
       "url": "https://transfer.sh/ZGzGz/CAF-ALPHA-9-20190726-1709--TEAMONE.zip",
-      "version": "9-20190726-1709--TEAMONE.zip"
+      "version": "9-20190726-1709--TEAMONE"
+    },
+    {
+      "datetime": 1564168375,
+      "filename": "CAF-ALPHA-9-20190726-1913--TEAMONE.zip",
+      "id": "178af89c6fe21b5e380bd99e7468a118",
+      "romtype": "ALPHA",
+      "size": 476799638,
+      "url": "https://transfer.sh/cNXhY/CAF-ALPHA-9-20190726-1913--TEAMONE.zip",
+      "version": "9-20190726-1913--TEAMONE"
     }
   ]
 }
