@@ -1,49 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1564231100,
-      "filename": "CAF-ALPHA-9-20190727-1238-mobee01a-TEAMONE.zip",
-      "id": "01279c1b51db9b35fef9dc9d26e8717c",
-      "romtype": "ALPHA",
-      "size": 478656556,
-      "url": "https://transfer.sh/CjNb8/CAF-ALPHA-9-20190727-1238-mobee01a-TEAMONE.zip",
-      "version": "ALPHA-9-20190727-1238-mobee01a-TEAMONE.zip"
-    },
-    {
-      "datetime": 1564231100,
-      "filename": "CAF-ALPHA-9-20190810-0745-mobee01a-TEAMONE.zip",
-      "id": "fdf97a02fc169bf8d934126752839a72",
-      "romtype": "ALPHA",
-      "size": 477491554,
-      "url": "https://transfer.sh/nWynf/CAF-ALPHA-9-20190810-0745-mobee01a-TEAMONE.zip",
-      "version": "ALPHA-9-20190810-0745-mobee01a-TEAMONE.zip"
-    },
-    {
-      "datetime": 1565423149,
-      "filename": "CAF-BETA-9-20190727-1423-mobee01a-TEAMONE.zip",
-      "id": "ca50191950d87cbc6a0d19925edcbd49",
+      "datetime": 1569768278,
+      "filename": "OneOS-9-STABLE-20190929-1444-mobee01a.zip",
+      "id": "b1d92d6b244ae8bd24717948a6d91ed6",
       "romtype": "BETA",
-      "size": 478586830,
-      "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/BETA/CAF-BETA-9-20190727-1423-mobee01a-TEAMONE.zip",
-      "version": "BETA-9-20190727-1423-mobee01a-TEAMONE.zip"
-    },
-    {
-      "datetime": 1564237378,
-      "filename": "CAF-BETA-9-20190727-1423-mobee01a-TEAMONE.zip",
-      "id": "ca50191950d87cbc6a0d19925edcbd49",
-      "romtype": "TEST",
-      "size": 478586830,
-      "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/BETA/CAF-BETA-9-20190727-1423-mobee01a-TEAMONE.zip",
-      "version": "BETA-9-20190727-1423-mobee01a-TEAMONE.zip"
-    },
-    {
-      "datetime": 1565711357,
-      "filename": "CAF-ALPHA-9-20190813-1549-mobee01a-TEAMONE.zip",
-      "id": "6d46beb846d754a5121428096675e02a",
-      "romtype": "ALPHA",
-      "size": 498382610,
-      "url": "https://transfer.sh/EZ2Pz/CAF-ALPHA-9-20190813-1549-mobee01a-TEAMONE.zip",
-      "version": "ALPHA-9-20190813-1549-mobee01a-TEAMONE.zip"
+      "size": 489217047,
+      "url": "https://astuteinternet.dl.sourceforge.net/project/romz-for-ls-5015/OneOS/OneOS-9-STABLE-20190929-1444-mobee01a.zip",
+      "version": "9-STABLE-20190929-1444-mobee01a.zip"
     }
   ]
 }
