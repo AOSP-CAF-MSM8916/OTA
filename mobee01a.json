@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1569768278,
-      "filename": "OneOS-9-STABLE-20190929-1444-mobee01a.zip",
-      "id": "b1d92d6b244ae8bd24717948a6d91ed6",
+      "datetime": 1573552200,
+      "filename": "OneOS-2.0-ALPHA-20191111-1703-mobee01a.zip",
+      "id": "7db68546f63e74670f5049be47a4073b",
       "romtype": "ALPHA",
-      "size": 489217047,
-      "url": "https://astuteinternet.dl.sourceforge.net/project/romz-for-ls-5015/OneOS/OneOS-9-STABLE-20190929-1444-mobee01a.zip",
-      "version": "STABLE-9-20190929-1444-mobee01a-TEAMONE"
+      "size": 554219853,
+      "url": "https://liquidtelecom.dl.sourceforge.net/project/caf-test/mobee01a/ten/ALPHA/OneOS-2.0-ALPHA-20191111-1703-mobee01a.zip",
+      "version": "2.0-ALPHA-20191111-1703-mobee01a"
     }
   ]
 }
