@@ -8,6 +8,15 @@
       "size": 757071329,
       "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/ten/ALPHA/OneOS-ALPHA-2.0-ALPHA-20191113-1059-mobee01a.zip",
       "version": "2.0-ALPHA-20191113-1059-mobee01a"
+    },
+    {
+      "datetime": 1573688820,
+      "filename": "ota_update.zip",
+      "id": "9674bdf2ab4460d4681318849b6096ca",
+      "romtype": "ALPHA",
+      "size": 6631788,
+      "url": "https://astuteinternet.dl.sourceforge.net/project/caf-test/ota_update.zip",
+      "version": "2.0-ALPHA-QKQ1.191021.002-1573688820"
     }
   ]
 }
