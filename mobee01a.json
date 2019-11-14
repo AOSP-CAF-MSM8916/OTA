@@ -10,13 +10,13 @@
       "version": "2.0-ALPHA-20191113-1059-mobee01a"
     },
     {
-      "datetime": 1573688820,
-      "filename": "ota_update.zip",
-      "id": "9674bdf2ab4460d4681318849b6096ca",
+      "datetime": 1573728283,
+      "filename": "OneOS-ALPHA-2.0-ALPHA-20191114-1044-mobee01a.zip",
+      "id": "6ea55e63e96802465937e737c6e6d782",
       "romtype": "ALPHA",
-      "size": 6631788,
+      "size": 754973794,
       "url": "https://astuteinternet.dl.sourceforge.net/project/caf-test/ota_update.zip",
-      "version": "2.0-ALPHA-QKQ1.191021.002-1573688820"
+      "version": "2.0-ALPHA-QKQ1.191021.002-1573728283"
     }
   ]
 }
