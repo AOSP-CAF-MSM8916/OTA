@@ -80,6 +80,15 @@
       "size": 591233874,
       "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/ten/BETA/OneOS-2.0-BETA-20200114-1742-mobee01a.zip",
       "version": "2.0-BETA-QKQ1.190825.002-1579003957"
+    },
+    {
+      "datetime": 1579534217,
+      "filename": "OneOS-2.0-ALPHA-20200120-2059-mobee01a.zip",
+      "id": "69e2c4636b6f42dd4ba5bf91bae29530",
+      "romtype": "ALPHA",
+      "size": 272963602,
+      "url": "https://master.dl.sourceforge.net/project/caf-test/mobee01a/ten/ALPHA/OneOS-2.0-ALPHA-20200120-2059-mobee01a.zip",
+      "version": "2.0-ALPHA-QKQ1.190825.002-1579534217"
     }
   ]
 }
