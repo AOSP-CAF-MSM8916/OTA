@@ -8,6 +8,15 @@
       "size": "818243889",
       "id": "6e0a3228e5043a8d6a8c0c7ec4dd13fe",
       "url": "https://master.dl.sourceforge.net/project/caf-test/guacamoleb/OneOS-2.0-ALPHA-20200413-1917-guacamoleb.zip"
+    },
+    {
+      "datetime": 1586805135,
+      "filename": "OneOS-2.0-ALPHA-20200414-0042-guacamoleb.zip",
+      "version": "2.0-ALPHA-QKQ1.200209.002-1586805135",
+      "romtype": "ALPHA",
+      "size": "1315833288",
+      "id": "5baf1987e4521bb936e7978a9523d894",
+      "url": "https://master.dl.sourceforge.net/project/caf-test/guacamoleb/OneOS-2.0-ALPHA-20200414-0042-guacamoleb.zip"
     }
   ]
 }
