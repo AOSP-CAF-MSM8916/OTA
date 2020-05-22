@@ -62,6 +62,15 @@
       "size": "1059895222",
       "id": "517375f1559185080244e5180a3de670",
       "url": "https://master.dl.sourceforge.net/project/caf-test/guacamoleb/OneOS-2.0-ALPHA-GApps-20200521-2128-guacamoleb.zip"
+    },
+    {
+      "datetime": 1590173014,
+      "filename": "OneOS-2.0-ALPHA-GApps-20200523-0016-guacamoleb.zip",
+      "version": "2.0-ALPHA-GApps-QQ2A.200405.005-1590173216",
+      "romtype": "ALPHA",
+      "size": "1048234898",
+      "id": "c7cde524346daa3520468f1a74c58716",
+      "url": "https://master.dl.sourceforge.net/project/caf-test/guacamoleb/OneOS-2.0-ALPHA-GApps-20200523-0016-guacamoleb.zip"
     }
   ]
 }
