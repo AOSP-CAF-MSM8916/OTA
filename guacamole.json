@@ -62,6 +62,15 @@
       "size": "1048721429",
       "id": "4c21e8385467ea3c55e6c60d57bc7e30",
       "url": "https://master.dl.sourceforge.net/project/caf-test/guacamole/OneOS-2.0-ALPHA-GApps-20200525-1828-guacamole.zip"
+    },
+    {
+      "datetime": 1593151018,
+      "filename": "OneOS-2.1-BETA-GApps-20200626-1129-guacamole.zip",
+      "version": "2.1-BETA-GApps-QQ2A.200405.005-1593151150",
+      "romtype": "BETA",
+      "size": "1323798823",
+      "id": "c8b8fed7d0784c78aa372dae18cc50c7",
+      "url": "https://master.dl.sourceforge.net/project/caf-test/guacamole/OneOS-2.1-BETA-GApps-20200626-1129-guacamole.zip"
     }
   ]
 }
