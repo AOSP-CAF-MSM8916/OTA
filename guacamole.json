@@ -1,5 +1,4 @@
-{
-  "response": [
+    {
       "datetime": 1593151018,
       "filename": "OneOS-2.1-BETA-GApps-20200626-1129-guacamole.zip",
       "version": "2.1-BETA-GApps-QQ2A.200405.005-1593151150",
@@ -8,5 +7,3 @@
       "id": "c8b8fed7d0784c78aa372dae18cc50c7",
       "url": "https://master.dl.sourceforge.net/project/caf-test/guacamole/OneOS-2.1-BETA-GApps-20200626-1129-guacamole.zip"
     }
-  ]
-}
